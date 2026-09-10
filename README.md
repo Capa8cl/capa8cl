@@ -13,8 +13,8 @@
 
 ```bash
 capa8@github:~$ cat about_me.txt
-> Estudiando Analista Programador Computacional en Duoc UC.
-> 💻 Enfocado en el desarrollo con Java y diseño/gestión de Bases de Datos.
+> 📖 Estudiante de Analista Programador Computacional en Duoc UC.
+> 💻 Actualmente enfocado en el desarrollo con Java y diseño/gestión de Bases de Datos.
 > 🐧 Usuario activo de Linux y explorando Ciberseguridad Ofensiva (Kali Linux).
 > 📜 Certificaciones: Microsoft Azure Fundamentals (AZ-900) | Scrum Developer
 ```
