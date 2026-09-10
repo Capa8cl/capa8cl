@@ -59,9 +59,11 @@ capa8@github:~$ cat about_me.txt
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Capa8cl&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 
-  <img src="https://github.com/Capa8cl/capa8cl/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://github.com/Capa8cl/capa8cl/blob/main/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
+
 ---
+
 ### Contáctame
 
 <p>
