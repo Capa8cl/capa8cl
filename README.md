@@ -16,7 +16,7 @@ capa8@github:~$ cat about_me.txt
 > 📖 Estudiante de Analista Programador Computacional en Duoc UC.
 > 💻 Actualmente enfocado en el desarrollo con Java y diseño/gestión de Bases de Datos.
 > 🐧 Usuario activo de Linux y explorando Ciberseguridad Ofensiva (Kali Linux).
-> 📜 Certificaciones: Microsoft Azure Fundamentals (AZ-900) | Scrum Developer
+> 📜 Certificaciones: Microsoft Azure Fundamentals (AZ-900) | Scrum Developer (SDPC) | Scrum Product Owner (SPOPC)
 ```
 
 ---
