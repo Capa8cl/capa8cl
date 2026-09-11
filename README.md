@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Capa8 Banner" width="100%">
-</p>
+<img src="./banner.png" alt="Capa8 Banner" width="700">
 
 # ¡Hola! Soy Fabrizio Fernandini 👋
 
@@ -53,13 +51,13 @@ capa8@github:~$ cat about_me.txt
 
 <div>
   <a href="https://github.com/Capa8cl">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Capa8cl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" alt="Estadísticas de GitHub" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Capa8cl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Capa8cl">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Capa8cl&layout=compact&langs_count=8&theme=algolia"/>
+    <img alt="Lenguajes más usados" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Capa8cl&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 
-  <img src="https://github.com/Capa8cl/capa8cl/blob/main/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img  src="https://github.com/Capa8cl/capa8cl/blob/main/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
 
 ---
@@ -67,5 +65,6 @@ capa8@github:~$ cat about_me.txt
 ### Contáctame
 
 <p>
-<a href="https://www.linkedin.com/in/fabrizio-fernandini-o%C3%B1ate-26943a72/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fabrizio-fernandini-o%C3%B1ate-26943a72/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
